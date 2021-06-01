@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/dawn-background-3083822.jpg");
+
+}
+
+marquee{
+    font-size: xx-large;
+    
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+label{
+    font-size: 30px;
+    color: white;
+}
+
+button{
+
+   font-size: 50px;
+   background-color: cyan; 
+  
+}
+
